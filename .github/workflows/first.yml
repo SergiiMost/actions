@@ -4,7 +4,7 @@ jobs:
   first-job:
     runs-on: ubuntu-latest
     steps: 
-      -name: Print Hollaa
+      - name: Print Hollaa
         run: echo "Hooooolllaaa"
-      -name: Print Chaooo
+      - name: Print Chaooo
         run: echo "Chaaoooooooo"
